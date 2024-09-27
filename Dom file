@@ -1,4 +1,6 @@
 Window.document() 
-getElementById() or Class() 
+getElementById() or Class() ByTagName() 
+querySelector() 
+
 
 
