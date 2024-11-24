@@ -7,4 +7,16 @@ Alt+z for format
 npm install react-icons - -save 
 
 
+useState
+useRef
+useEffect
+useContext
+devtools
+
+mutable way :
+let obj = { name: "Alice", age: 25 };
+obj.age = 26;  // Modify the 'age' property
+console.log(obj);
+
+
 
