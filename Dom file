@@ -7,6 +7,17 @@ document. querySelector()
 
 document. querySelectorAll() 
 
+Creating and inserting Dom elements. 
 
+<div id="container" ><\div>
+
+<script >
+Var Paragraph = docuo.createElement ("p" ) ;
+Paragraph. textConten="this is dynamically created" 
+Var container =document. getElementById("container") ;
+container. appendChild (paragraph) 
+
+
+<\script>
 
 
