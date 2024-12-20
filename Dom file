@@ -1,6 +1,12 @@
 Window.document() 
 getElementById() or Class() ByTagName() 
+Above all can be replaced by qury selector 
+
 querySelector() 
+document. querySelector() 
+
+document. querySelectorAll() 
+
 
 
 
