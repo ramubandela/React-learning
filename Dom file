@@ -13,7 +13,10 @@ Creating and inserting Dom elements.
 
 <script >
 Var Paragraph = docuo.createElement ("p" ) ;
-Paragraph. textConten="this is dynamically created" 
+Paragraph. textContent="this is dynamically created" 
+Or
+newDiv.innerHTML = "This is a dynamically added div";
+
 Var container =document. getElementById("container") ;
 container. appendChild (paragraph) 
 
