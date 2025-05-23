@@ -121,5 +121,15 @@ Function passing as an argument
 
 Webapi 
 fetch(), setTimeout() , setInterval() 
+fetch(url) 
+
+
+Promises this is returned by the fetch () 
+
+Pending 
+Fulfilled 
+Reject 
+
+
 
 
