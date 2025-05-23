@@ -1,4 +1,4 @@
-rafce  Install ES7+React-Native snippets 
+Urafce  Install ES7+React-Native snippets 
 Install tailwind css intellisence from intellisence labs 
 Install react router 
 Install liveserver 
@@ -96,4 +96,22 @@ fetchPosts()
   .catch(error => {
     console.error('Error fetching posts:', error);  // Handles any error
   });
+
+
+Javascript 
+
+Callbacks
+Webapi
+Promises
+Async/Await
+Event loop 
+
+HTML Topics 
+HTML Dom tree 
+Selecting Dom elements 
+Creating and inserting Dom elements 
+Removing Dom elements 
+Event listeners 
+Web storages local session cookies 
+Exploration of small TODO app
 
